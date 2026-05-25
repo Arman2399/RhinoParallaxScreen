@@ -1,0 +1,14 @@
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParallaxScreenPlugin\bin\Release\net7.0\ParallaxScreenPlugin.deps.json
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParallaxScreenPlugin\bin\Release\net7.0\ParallaxScreenPlugin.runtimeconfig.json
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParallaxScreenPlugin\bin\Release\net7.0\ParallaxScreenPlugin.rhp
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParallaxScreenPlugin\bin\Release\net7.0\ParallaxScreenPlugin.pdb
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParallaxScreenPlugin\obj\Release\net7.0\ParallaxScreenPlugin.csproj.AssemblyReference.cache
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParallaxScreenPlugin\obj\Release\net7.0\ParallaxScreenPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParallaxScreenPlugin\obj\Release\net7.0\ParallaxScreenPlugin.AssemblyInfoInputs.cache
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParallaxScreenPlugin\obj\Release\net7.0\ParallaxScreenPlugin.AssemblyInfo.cs
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParallaxScreenPlugin\obj\Release\net7.0\ParallaxScreenPlugin.csproj.CoreCompileInputs.cache
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParallaxScreenPlugin\obj\Release\net7.0\ParallaxScreenPlugin.rhp
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParallaxScreenPlugin\obj\Release\net7.0\refint\ParallaxScreenPlugin.rhp
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParallaxScreenPlugin\obj\Release\net7.0\ParallaxScreenPlugin.pdb
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParallaxScreenPlugin\obj\Release\net7.0\ParallaxScreenPlugin.genruntimeconfig.cache
+D:\Rhino\Projects\Portfolio\Arman260522\Arman260522\ParallaxScreenPlugin\obj\Release\net7.0\ref\ParallaxScreenPlugin.rhp
