@@ -1,6 +1,6 @@
 # Parallax Screen (Rhino 8 Plugin)
 
-This tool translates the spatial logic of traditional Japanese *koshi* screens into a kinetic facade system with zero moving parts. It generates performative architectural screens calibrated to human circulation. Unlike systems optimized for solar gain, this algorithm prioritizes the observer's visual experience. It uses vector projection to orient individual louver profiles toward a tracked path, creating a 3D "Visibility Corridor." Observers within the calibrated path experience continuous transparency, while off-axis sightlines are geometrically occluded.
+Parallax Screen is a Rhino 8 plugin that generates kinetic architectural facades without moving parts. Instead of optimizing for sunlight, this tool optimizes for human movement. It uses vector projection to angle individual louvers toward a specific walking path, creating a 3D "Visibility Corridor." Observers walking along this calibrated path experience continuous transparency through the facade, while anyone viewing from an off-axis angle sees a solid, opaque wall.
 
 ## Visual Documentation
 
